@@ -1,12 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This is the finalized frontend code built using ReactJs with tailwindCss using vite for faster and smooth component based architecture.
+All the pages are accessible via the links which work when clicked on the respective button and links.
+The landing page has two layouts the first one is the original design based layout for screen size or above 1000px width will have a slightly different layout.
+Added a few mini interactions like hover effects and transitions for user engagement .
+The image selector on the dashboard is also working and can be used to select images from user devices.
